@@ -6,8 +6,8 @@ This lab shows how we can set up different aspects for the ticketing system to w
 
 <h1>Environment</h1>
 
--Microsoft Azure
--osTicketing
+- Microsoft Azure
+- osTicketing
 
 <h1>Configuration</h1>
 
@@ -37,4 +37,5 @@ Finally, we can finish the setup with Help Topics. These are created to help use
 
 ![image](https://github.com/Zues4366/osticket-post-installation/assets/33434045/862dcd83-1afd-41a6-aa6b-3c930fbaeef5)
 
+<h1>Complete</h1>
 Now the configuration is complete, we can utilize the osTicket system to simulate a ticketing system where tickets can come in and we can interact, respond and work on the tickets coming in.
