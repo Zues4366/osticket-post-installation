@@ -1,3 +1,5 @@
+![image](https://github.com/Zues4366/osticket-post-installation/assets/33434045/98aaf6d2-d730-4075-b3fd-319decff4f3c)
+
 <h1>osTicket Post-Installation</h1>
 
 This lab shows how we can set up different aspects for the ticketing system to work like creating departments and roles and adding people to the teams
